@@ -1,1 +1,1 @@
-# A very simple utility cli to adjus PAT in the github
+# A very simple utility cli to set PAT in the github repo url
